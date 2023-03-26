@@ -9,3 +9,5 @@ After that, we applied different methods to solve the prediction problems:
 1. Linear Regression
 2. Neural Network method
 3. Tree-based methods
+
+For more details, you can see our documents in docs folder, which have proposal file, report file and slides.
